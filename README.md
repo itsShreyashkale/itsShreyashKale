@@ -1,14 +1,147 @@
-# 💫 About Me:
-I am a Computer Engineering student, with a deep interest in Tech related fields. My journey in tech has been enriched through various projects.<br><br>I am actively preparing for placements at leading tech companies and I am continuously seeking opportunities to apply my skills in real-world projects and contribute to impactful software solutions.<br><br>Outside of academics, I have experience teaching, which has enhanced my ability to communicate complex technical concepts clearly and effectively.<br><br>I like to publish Articles,Paper or Blogs related to my field:<br>>>https://shreyashkale.hashnode.dev/building-with-nodejs-and-expressjs-everything-you-need-to-know
+<!-- Header Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4e54c8,100:8f94fb&height=220&section=header&text=Shreyash%20Kale&fontSize=45&fontAlignY=35&desc=Computer%20Engineering%20Graduate%20|%20Backend%20%26%20Full%20Stack%20Explorer&descAlignY=55&fontColor=ffffff" />
+</p>
 
+---
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shreyashkale_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shreyash-kale-204b0a228?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
+## 👋 Hey, I’m Shreyash
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+I’m a Computer Engineering graduate who enjoys **building useful things with code** and exploring how systems work end-to-end.  
+Right now I’m focused on:
 
+- Strengthening my **backend & full-stack development** skills  
+- Exploring the foundations of **AI, ML, DL, and NLP** (step by step, not pretending to be a pro)  
+- Turning ideas into **practical, working projects**  
 
+I like combining **solid fundamentals** (DSA, OS, CN, DBMS) with **hands-on development** in Python, JavaScript, and modern web frameworks.
 
+---
 
+## 🎯 Current Interests (What I’m Exploring)
 
+- 🧠 **AI / ML / DL / NLP** basics – understanding concepts, models, and how they’re applied in real tasks  
+- 🧩 **Backend systems** – APIs, authentication, request/response flows, and clean architecture  
+- 🌐 **Full-stack apps** – connecting frontend, backend, and databases in a smooth flow  
+- 🐳 **Docker & Linux** – containerizing apps and getting comfortable with basic DevOps workflows  
+
+---
+
+## 🛠 Tech Stack
+
+### 💻 Languages & Databases
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=ffffff" />
+</p>
+
+### 🧩 Frameworks & Libraries
+<p>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=ffffff" />
+</p>
+
+### 🧰 Tools & Platforms
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000" />
+</p>
+
+---
+
+## 📦 Featured Projects (Cards)
+
+<p align="center">
+  <!-- Card 1 -->
+  <a href="https://github.com/itsShreyashkale/Traffic_Sign_Detection-Classification">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsShreyashkale&repo=Traffic_Sign_Detection-Classification&theme=tokyonight&border_radius=15" />
+  </a>
+  <!-- Card 2 -->
+  <a href="https://github.com/itsShreyashkale/AI-Powered-Academic-Plagiarism-Detection-System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsShreyashkale&repo=AI-Powered-Academic-Plagiarism-Detection-System&theme=tokyonight&border_radius=15" />
+  </a>
+</p>
+
+<p align="center">
+  <!-- Card 3 -->
+  <a href="https://github.com/itsShreyashkale/Gas_Utility">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsShreyashkale&repo=Gas_Utility&theme=tokyonight&border_radius=15" />
+  </a>
+  <!-- Card 4 -->
+  <a href="https://github.com/itsShreyashkale/music_player_-Python-">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsShreyashkale&repo=music_player_-Python-&theme=tokyonight&border_radius=15" />
+  </a>
+</p>
+
+🔹 **Traffic Sign Detection System** – CNN-based traffic sign recognition with Flask web interface and webcam support.  
+🔹 **AI-Powered Academic Plagiarism Detection** – Full-stack Django app combining classical NLP techniques and modern embeddings for plagiarism checks.  
+🔹 **Gas Utility Management System** – Node.js + MySQL service platform to handle customer requests and service workflows.  
+🔹 **Music Player & Mini Games** – Python and web-based projects built to strengthen logic, UI, and event handling.
+
+---
+
+## 📜 Certifications & Learning
+
+I like structured learning and have completed multiple certifications:
+
+- 🎓 **Google IT Support**  
+- 🎓 **IBM Full Stack Developer**  
+- 🎓 **Meta Backend Developer**  
+
+You can see most of my badges here:  
+🔗 **Credly:** https://www.credly.com/users/shreyash-kale
+
+I also enjoy writing occasionally and documenting what I learn:  
+✍️ **Hashnode Blog:** https://shreyashkale.hashnode.dev
+
+---
+
+## 🧾 Long-form Bio
+
+**Computer Engineering graduate with a growing interest in AI, ML, DL, NLP, and full-stack development. I enjoy building things that solve real problems — whether it’s a full-stack web app, a small script, or experimenting with modern models and tooling. My journey has been shaped by curiosity, hands-on projects, and a consistent habit of learning new technologies.**
+
+**Experienced with Python, JavaScript, MySQL, HTML/CSS, REST APIs, and backend development using Node.js, Express, Django, and Flask. I’ve worked across databases, API design, authentication, and modular architectures, and I’ve recently started exploring cloud workflows, containerization with Docker, and basic Linux environments.**
+
+**My academic background includes strong foundations in DSA, Operating Systems, Computer Networks, DBMS, and algorithms. During my final year, I built and published research on Traffic Sign Detection using CNNs (accepted at IEEE & IJCRT), and developed a full-stack academic plagiarism detection system combining classical NLP and modern embedding-based methods. I enjoy bridging practical coding skills with theoretical concepts.**
+
+**When I’m not building something new, I work on improving documentation, writing cleaner code, and contributing to projects that emphasize usability and performance. Outside tech, I’ve been involved in NCC (11 MAH BN), leadership camps, community activities like tree plantation & fort cleaning, and national-level college hackathons. These experiences helped me develop discipline, teamwork, and resilience.**
+
+**Certifications like Google IT Support, IBM Full Stack Developer, and Meta Backend Developer have strengthened my understanding of systems, backend logic, and full-stack workflows. I keep track of my achievements on Credly, and I’m planning to write more long-form content on Hashnode about the things I learn.**
+
+**I believe in staying curious, exploring new domains, and building projects that reflect real learning. My current interests revolve around backend systems, scalable APIs, beginner-friendly AI/ML experiments, and applying modern engineering practices to personal projects.**
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsShreyashkale&theme=tokyonight&hide_border=false&border_radius=10" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=itsShreyashkale&show_icons=true&theme=tokyonight&border_radius=10" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsShreyashkale&layout=compact&theme=tokyonight&border_radius=10" height="150" />
+</p>
+
+---
+
+## 🌐 Let’s Connect
+
+- 🌍 **Portfolio:** https://itsshreyashkale.github.io  
+- 💼 **LinkedIn:** https://www.linkedin.com/in/shreyash-kale-204b0a228  
+- 🧾 **Credly:** https://www.credly.com/users/shreyash-kale  
+- ✍️ **Hashnode:** https://shreyashkale.hashnode.dev  
+- 📧 **Email:** [shreyashkale999@gmail.com](mailto:shreyashkale999@gmail.com)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8f94fb,100:4e54c8&height=120&section=footer" />
+</p>
