@@ -1,7 +1,12 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4e54c8,100:8f94fb&height=220&section=header&text=Shreyash%20Kale&fontSize=45&fontAlignY=35&desc=Computer%20Engineering%20Graduate%20|%20Backend%20%26%20Full%20Stack%20Explorer&descAlignY=55&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4e54c8&height=200&section=header&text=Shreyash%20Kale&fontSize=45&fontColor=ffffff" />
+  
+  <h3 align="center">
+    Computer Engineering Graduate • Backend & Full Stack Explorer
+  </h3>
 </p>
+
 
 ---
 
@@ -29,22 +34,40 @@ I like combining **solid fundamentals** (DSA, OS, CN, DBMS) with **hands-on deve
 
 ## 🛠 Tech Stack
 
-### 💻 Languages & Databases
+### 💻 Programming Languages
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" />
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=ffffff" />
+</p>
+
+### 🗄️ Databases
+<p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=ffffff" />
 </p>
 
-### 🧩 Frameworks & Libraries
+### 🧩 Frameworks & Backend Technologies
 <p>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logo=api&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Authentication-4285f4?style=for-the-badge&logo=auth0&logoColor=ffffff" />
+</p>
+
+### 🤖 AI / ML / NLP (Learning & Exploring)
+<p>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/TF--IDF-4e54c8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/BERT-8f94fb?style=for-the-badge" />
 </p>
 
 ### 🧰 Tools & Platforms
@@ -54,7 +77,25 @@ I like combining **solid fundamentals** (DSA, OS, CN, DBMS) with **hands-on deve
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff" />
 </p>
+
+### 🔒 Security & Networking (From Google IT Support)
+<p>
+  <img src="https://img.shields.io/badge/Computer%20Networks-005571?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Token%20Authentication-8f94fb?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SSH-4d4d4d?style=for-the-badge&logo=socketdotio&logoColor=ffffff" />
+</p>
+
+### 🏗️ Other Skills (From Projects + Internship)
+<p>
+  <img src="https://img.shields.io/badge/Debugging-ff5f5f?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Testing-3a86ff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/UI%20Design-ffafcc?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Website%20Rebuilding-06d6a0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Version%20Control-000000?style=for-the-badge&logo=github&logoColor=ffffff" />
+</p>
+
 
 ---
 
@@ -105,7 +146,7 @@ I also enjoy writing occasionally and documenting what I learn:
 
 ---
 
-## 🧾 Long-form Bio
+## 🧾 Bio
 
 **Computer Engineering graduate with a growing interest in AI, ML, DL, NLP, and full-stack development. I enjoy building things that solve real problems — whether it’s a full-stack web app, a small script, or experimenting with modern models and tooling. My journey has been shaped by curiosity, hands-on projects, and a consistent habit of learning new technologies.**
 
