@@ -111,7 +111,8 @@ I like combining **solid fundamentals** (DSA, OS, CN, DBMS) with **hands-on deve
       <br />
       <sub><b>Tech:</b> Python · CNN · Flask · OpenCV</sub>
     </td>
-
+ </tr>
+   <tr> 
     <!-- Card 2 -->
     <td align="center" width="50%">
       <a href="https://github.com/itsShreyashkale/AI-Powered-Academic-Plagiarism-Detection-System">
@@ -131,7 +132,8 @@ I like combining **solid fundamentals** (DSA, OS, CN, DBMS) with **hands-on deve
       <br />
       <sub><b>Tech:</b> Node.js · Express · MySQL · REST API</sub>
     </td>
-
+  </tr>
+  <tr>
     <!-- Card 4 -->
     <td align="center" width="50%">
       <a href="https://github.com/itsShreyashkale/-AlgoVision-Sorting-Algorithm-Visualizer">
