@@ -129,20 +129,19 @@ I like combining **solid fundamentals** (DSA, OS, CN, DBMS) with **hands-on deve
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsShreyashkale&repo=Gas_Utility&theme=github_dark&border_radius=15" />
       </a>
       <br />
-      <sub><b>Tech:</b> JavaScript · Node.js · Express · MySQL</sub>
+      <sub><b>Tech:</b> Node.js · Express · MySQL · REST API</sub>
     </td>
 
     <!-- Card 4 -->
     <td align="center" width="50%">
-      <a href="https://github.com/itsShreyashkale/algovision-sorting-visualizer">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsShreyashkale&repo=algovision-sorting-visualizer&theme=github_dark&border_radius=15" />
+      <a href="https://github.com/itsShreyashkale/-AlgoVision-Sorting-Algorithm-Visualizer">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsShreyashkale&repo=-AlgoVision-Sorting-Algorithm-Visualizer&theme=github_dark&border_radius=15" />
       </a>
       <br />
       <sub><b>Tech:</b> HTML · CSS · JavaScript · Algorithms & DSA</sub>
     </td>
   </tr>
 </table>
-
 
 
 ---
