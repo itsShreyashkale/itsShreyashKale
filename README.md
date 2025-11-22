@@ -106,19 +106,19 @@ I like combining **solid fundamentals** (DSA, OS, CN, DBMS) with **hands-on deve
     <!-- Card 1 -->
     <td align="center" width="50%">
       <a href="https://github.com/itsShreyashkale/Traffic_Sign_Detection-Classification">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsShreyashkale&repo=Traffic_Sign_Detection-Classification&theme=tokyonight&border_radius=15" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsShreyashkale&repo=Traffic_Sign_Detection-Classification&theme=github_dark&border_radius=15" />
       </a>
       <br />
-      <sub><b>Tech:</b> Python · CNN · TensorFlow · OpenCV</sub>
+      <sub><b>Tech:</b> Python · CNN · Flask · OpenCV</sub>
     </td>
 
     <!-- Card 2 -->
     <td align="center" width="50%">
       <a href="https://github.com/itsShreyashkale/AI-Powered-Academic-Plagiarism-Detection-System">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsShreyashkale&repo=AI-Powered-Academic-Plagiarism-Detection-System&theme=tokyonight&border_radius=15" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsShreyashkale&repo=AI-Powered-Academic-Plagiarism-Detection-System&theme=github_dark&border_radius=15" />
       </a>
       <br />
-      <sub><b>Tech:</b> Python · Django · NLP (TF-IDF, BERT) · HTML/CSS/JS</sub>
+      <sub><b>Tech:</b> Python · Django · NLP · REST API</sub>
     </td>
   </tr>
 
@@ -126,22 +126,23 @@ I like combining **solid fundamentals** (DSA, OS, CN, DBMS) with **hands-on deve
     <!-- Card 3 -->
     <td align="center" width="50%">
       <a href="https://github.com/itsShreyashkale/Gas_Utility">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsShreyashkale&repo=Gas_Utility&theme=tokyonight&border_radius=15" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsShreyashkale&repo=Gas_Utility&theme=github_dark&border_radius=15" />
       </a>
       <br />
-      <sub><b>Tech:</b> Node.js · Express · MySQL · REST API</sub>
+      <sub><b>Tech:</b> JavaScript · Node.js · Express · MySQL</sub>
     </td>
 
     <!-- Card 4 -->
     <td align="center" width="50%">
       <a href="https://github.com/itsShreyashkale/algovision-sorting-visualizer">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsShreyashkale&repo=algovision-sorting-visualizer&theme=tokyonight&border_radius=15" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsShreyashkale&repo=algovision-sorting-visualizer&theme=github_dark&border_radius=15" />
       </a>
       <br />
-      <sub><b>Tech:</b> HTML · CSS · JavaScript · Algorithms/DSA</sub>
+      <sub><b>Tech:</b> HTML · CSS · JavaScript · Algorithms & DSA</sub>
     </td>
   </tr>
 </table>
+
 
 
 ---
