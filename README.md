@@ -99,43 +99,50 @@ I like combining **solid fundamentals** (DSA, OS, CN, DBMS) with **hands-on deve
 
 ---
 
-## 📦 Featured Projects (Cards)
+## 📦 Featured Projects
 
-<p align="center">
-  <!-- Card 1 -->
-  <a href="https://github.com/itsShreyashkale/Traffic_Sign_Detection-Classification">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsShreyashkale&repo=Traffic_Sign_Detection-Classification&theme=tokyonight&border_radius=15" />
-    <br />
-    <sub><b>Tech:</b> Python · CNN · TensorFlow/Keras · OpenCV</sub>
-  </a>
-  <!-- Card 2 -->
-  <a href="https://github.com/itsShreyashkale/AI-Powered-Academic-Plagiarism-Detection-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsShreyashkale&repo=AI-Powered-Academic-Plagiarism-Detection-System&theme=tokyonight&border_radius=15" />
-    <br />
-    <sub><b>Tech:</b> Python · Django · NLP (TF-IDF, BERT) · HTML/CSS/JS</sub>
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <!-- Card 1 -->
+    <td align="center" width="50%">
+      <a href="https://github.com/itsShreyashkale/Traffic_Sign_Detection-Classification">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsShreyashkale&repo=Traffic_Sign_Detection-Classification&theme=tokyonight&border_radius=15" />
+      </a>
+      <br />
+      <sub><b>Tech:</b> Python · CNN · TensorFlow · OpenCV</sub>
+    </td>
 
-<p align="center">
-  <!-- Card 3 -->
-  <a href="https://github.com/itsShreyashkale/Gas_Utility">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsShreyashkale&repo=Gas_Utility&theme=tokyonight&border_radius=15" />
-    <br />
-    <sub><b>Tech:</b> Node.js · Express · MySQL · REST API</sub>
-  </a>
-  <!-- Card 4 -->
-  <a href="https://github.com/itsShreyashkale/algovision-sorting-visualizer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsShreyashkale&repo=algovision-sorting-visualizer&theme=tokyonight&border_radius=15" />
-    <br />
-    <sub><b>Tech:</b> HTML · CSS · JavaScript · Algorithms/DSA</sub>
-  </a>
-</p>
+    <!-- Card 2 -->
+    <td align="center" width="50%">
+      <a href="https://github.com/itsShreyashkale/AI-Powered-Academic-Plagiarism-Detection-System">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsShreyashkale&repo=AI-Powered-Academic-Plagiarism-Detection-System&theme=tokyonight&border_radius=15" />
+      </a>
+      <br />
+      <sub><b>Tech:</b> Python · Django · NLP (TF-IDF, BERT) · HTML/CSS/JS</sub>
+    </td>
+  </tr>
 
+  <tr>
+    <!-- Card 3 -->
+    <td align="center" width="50%">
+      <a href="https://github.com/itsShreyashkale/Gas_Utility">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsShreyashkale&repo=Gas_Utility&theme=tokyonight&border_radius=15" />
+      </a>
+      <br />
+      <sub><b>Tech:</b> Node.js · Express · MySQL · REST API</sub>
+    </td>
 
-🔹 **Traffic Sign Detection System** – CNN-based traffic sign recognition with Flask web interface and webcam support.  
-🔹 **AI-Powered Academic Plagiarism Detection** – Full-stack Django app combining classical NLP techniques and modern embeddings for plagiarism checks.  
-🔹 **Gas Utility Management System** – Node.js + MySQL service platform to handle customer requests and service workflows.  
-🔹 **Music Player & Mini Games** – Python and web-based projects built to strengthen logic, UI, and event handling.
+    <!-- Card 4 -->
+    <td align="center" width="50%">
+      <a href="https://github.com/itsShreyashkale/algovision-sorting-visualizer">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsShreyashkale&repo=algovision-sorting-visualizer&theme=tokyonight&border_radius=15" />
+      </a>
+      <br />
+      <sub><b>Tech:</b> HTML · CSS · JavaScript · Algorithms/DSA</sub>
+    </td>
+  </tr>
+</table>
+
 
 ---
 
