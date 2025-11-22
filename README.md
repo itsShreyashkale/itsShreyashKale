@@ -105,10 +105,14 @@ I like combining **solid fundamentals** (DSA, OS, CN, DBMS) with **hands-on deve
   <!-- Card 1 -->
   <a href="https://github.com/itsShreyashkale/Traffic_Sign_Detection-Classification">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsShreyashkale&repo=Traffic_Sign_Detection-Classification&theme=tokyonight&border_radius=15" />
+    <br />
+    <sub><b>Tech:</b> Python · CNN · TensorFlow/Keras · OpenCV</sub>
   </a>
   <!-- Card 2 -->
   <a href="https://github.com/itsShreyashkale/AI-Powered-Academic-Plagiarism-Detection-System">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsShreyashkale&repo=AI-Powered-Academic-Plagiarism-Detection-System&theme=tokyonight&border_radius=15" />
+    <br />
+    <sub><b>Tech:</b> Python · Django · NLP (TF-IDF, BERT) · HTML/CSS/JS</sub>
   </a>
 </p>
 
@@ -116,12 +120,17 @@ I like combining **solid fundamentals** (DSA, OS, CN, DBMS) with **hands-on deve
   <!-- Card 3 -->
   <a href="https://github.com/itsShreyashkale/Gas_Utility">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsShreyashkale&repo=Gas_Utility&theme=tokyonight&border_radius=15" />
+    <br />
+    <sub><b>Tech:</b> Node.js · Express · MySQL · REST API</sub>
   </a>
   <!-- Card 4 -->
-  <a href="https://github.com/itsShreyashkale/music_player_-Python-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsShreyashkale&repo=music_player_-Python-&theme=tokyonight&border_radius=15" />
+  <a href="https://github.com/itsShreyashkale/algovision-sorting-visualizer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsShreyashkale&repo=algovision-sorting-visualizer&theme=tokyonight&border_radius=15" />
+    <br />
+    <sub><b>Tech:</b> HTML · CSS · JavaScript · Algorithms/DSA</sub>
   </a>
 </p>
+
 
 🔹 **Traffic Sign Detection System** – CNN-based traffic sign recognition with Flask web interface and webcam support.  
 🔹 **AI-Powered Academic Plagiarism Detection** – Full-stack Django app combining classical NLP techniques and modern embeddings for plagiarism checks.  
