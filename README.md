@@ -166,13 +166,14 @@ I also enjoy writing occasionally and documenting what I learn:
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsShreyashkale&theme=tokyonight&hide_border=false&border_radius=10" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api?username=itsShreyashkale&show_icons=true&theme=tokyonight&border_radius=10" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=itsShreyashkale&theme=tokyonight&border_radius=10" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=itsShreyashkale&show_icons=true&theme=tokyonight&border_radius=10&cache_seconds=86400" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsShreyashkale&layout=compact&theme=tokyonight&border_radius=10" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsShreyashkale&layout=compact&theme=tokyonight&border_radius=10"/>
 </p>
+>
 
 ---
 
