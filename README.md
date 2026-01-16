@@ -99,33 +99,7 @@ I like combining **solid fundamentals** (DSA, OS, CN, DBMS) with **hands-on deve
 
 ---
 
-## 📦 Featured Projects
-
-### 🚦 Traffic Sign Detection & Classification
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itsShreyashkale&repo=Traffic_Sign_Detection-Classification&theme=github_dark&border_radius=15)](https://github.com/itsShreyashkale/Traffic_Sign_Detection-Classification)
-
-**Tech:** Python · CNN · Flask · OpenCV
-
----
-
-### 🧠 AI-Powered Academic Plagiarism Detection System
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itsShreyashkale&repo=AI-Powered-Academic-Plagiarism-Detection-System&theme=github_dark&border_radius=15)](https://github.com/itsShreyashkale/AI-Powered-Academic-Plagiarism-Detection-System)
-
-**Tech:** Python · Django · NLP · REST API
-
----
-
-### 🔥 Gas Utility Management System
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itsShreyashkale&repo=Gas_Utility&theme=github_dark&border_radius=15)](https://github.com/itsShreyashkale/Gas_Utility)
-
-**Tech:** Node.js · Express · MySQL · REST API
-
----
-
-### 📊 AlgoVision – Sorting Algorithm Visualizer
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itsShreyashkale&repo=AlgoVision-Sorting-Algorithm-Visualizer&theme=github_dark&border_radius=15)](https://github.com/itsShreyashkale/AlgoVision-Sorting-Algorithm-Visualizer)
-
-**Tech:** HTML · CSS · JavaScript · DSA
+## 📦 Featured Projects <table align="center"> <tr> <!-- Card 1 --> <td align="center" width="50%"> <a href="https://github.com/itsShreyashkale/Traffic_Sign_Detection-Classification"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsShreyashkale&repo=Traffic_Sign_Detection-Classification&theme=github_dark&border_radius=15" /> </a> <br /> <sub><b>Tech:</b> Python · CNN · Flask · OpenCV</sub> </td> </tr> <tr> <!-- Card 2 --> <td align="center" width="50%"> <a href="https://github.com/itsShreyashkale/AI-Powered-Academic-Plagiarism-Detection-System"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsShreyashkale&repo=AI-Powered-Academic-Plagiarism-Detection-System&theme=github_dark&border_radius=15" /> </a> <br /> <sub><b>Tech:</b> Python · Django · NLP · REST API</sub> </td> </tr> <tr> <!-- Card 3 --> <td align="center" width="50%"> <a href="https://github.com/itsShreyashkale/Gas_Utility"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsShreyashkale&repo=Gas_Utility&theme=github_dark&border_radius=15" /> </a> <br /> <sub><b>Tech:</b> Node.js · Express · MySQL · REST API</sub> </td> </tr> <tr> <!-- Card 4 --> <td align="center" width="50%"> <a href="https://github.com/itsShreyashkale/-AlgoVision-Sorting-Algorithm-Visualizer"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsShreyashkale&repo=-AlgoVision-Sorting-Algorithm-Visualizer&theme=github_dark&border_radius=15" /> </a> <br /> <sub><b>Tech:</b> HTML · CSS · JavaScript · Algorithms & DSA</sub> </td> </tr> </table>
 
 
 
