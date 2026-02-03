@@ -143,8 +143,6 @@ I value clean code, documentation, and continuous learning, and I’m currently 
 
 ## 📊 GitHub Activity
 
-## 📊 GitHub Activity
-
 ### 📌 Pinned Work (Selected Repositories)
 
 <p align="center">
