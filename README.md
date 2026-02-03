@@ -143,14 +143,46 @@ I value clean code, documentation, and continuous learning, and I’m currently 
 
 ## 📊 GitHub Activity
 
+## 📊 GitHub Activity
+
+### 📌 Pinned Work (Selected Repositories)
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsShreyashkale&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsShreyashkale&theme=tokyonight&hide_border=true" height="165"/>
+  <a href="https://github.com/itsShreyashkale/Traffic_Sign_Detection-Classification">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsShreyashkale&repo=Traffic_Sign_Detection-Classification&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/itsShreyashkale/AI-Powered-Academic-Plagiarism-Detection-System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsShreyashkale&repo=AI-Powered-Academic-Plagiarism-Detection-System&theme=tokyonight&hide_border=true" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsShreyashkale&layout=compact&theme=tokyonight&hide_border=true"/>
+  <a href="https://github.com/itsShreyashkale/FancyFood-Backend">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsShreyashkale&repo=FancyFood-Backend&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/itsShreyashkale/FancyFood-Frontend">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsShreyashkale&repo=FancyFood-Frontend&theme=tokyonight&hide_border=true" />
+  </a>
 </p>
+
+---
+
+### 📈 Contribution Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsShreyashkale&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+### 🧠 Development Focus Snapshot
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Backend%20Focused-Node.js%20%7C%20Django%20%7C%20FastAPI-4e54c8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Full%20Stack-React%20%2B%20REST%20APIs-8f94fb?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%2FML-NLP%20%7C%20CNNs%20%7C%20TF--IDF-06d6a0?style=for-the-badge" />
+</p>
+
 
 ---
 
